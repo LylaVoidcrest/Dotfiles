@@ -6,10 +6,10 @@
     /* for shuffling, use this
     "source": "$(ls ~/.config/fastfetch/images/*.png | shuf -n 1)", */
     "source": "~/.config/fastfetch/images/arch.png",
-    "height": 16,
+    "height": 14,
     "padding": {
       "left": 4,
-      "top": 1
+      "top": 2
     }
   },
 
